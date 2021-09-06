@@ -16,7 +16,7 @@ You will learn JSON, NoSQL Databases, File Handling.
 
 ## Features
 * ### Adding_new_Products.ipynb
-  * We can add products in the inventory and the their details will be updated in the record.json file. 
+  * We can add products in the inventory and their details will be updated in the record.json file. 
   * If the product is already present in the inventory, then its quantity will be increased by the quantity we will add.
 * ### Purchasing_Products.ipynb
   * It will show a menu that contains product id and name of all the products that are available in the inventory.
@@ -42,5 +42,9 @@ You will learn JSON, NoSQL Databases, File Handling.
   * Price of the product
   * Total Bill Amount
   * Time at which transaction has made
+
+## About Me
+I am Tarun Singh. I am currently pursuing B.Tech as a third year student. I am a competitive programmer. I love to do coding. My primary language for coding is C++. 
+
 
 
