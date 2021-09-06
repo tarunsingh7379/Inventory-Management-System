@@ -9,5 +9,6 @@ You will learn JSON, NoSQL Databases, File Handling.
 This file is containing all the product details that are available in the inventory.
 ### sales.json
 This file is containing all the sales that are made till now.
-### 
+### Adding_new_Products.ipynb
+From this file we can purchase products for the inventory. It will purchase product for the inventory and add the product details in the record.json file.
 
