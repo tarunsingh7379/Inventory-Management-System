@@ -23,7 +23,7 @@ You will learn JSON, NoSQL Databases, File Handling.
   * A user can purchase products from the inventory and the Bill will be shown to him.
   * The bill contains name of the product, price of the product, quantity of the product and the total bill amount that the user has to pay.
   * If a user try to purchase a product that is currently not available in the inventory, a proper message will be shown to him that will say this product is out of stock.
-  * If a user try to purchase a product but the user required quantity of the product is not available in the inventory, a message will be shown to him that will say we have this amount of product if you want to buy only this amount of product say yes else no.
+  * If a user try to purchase a product but the user's required quantity of the product is not available in the inventory, a message will be shown to him that will say we have this amount of product if you want to buy only this amount of product say yes else no.
   * For each successful transaction, the details of the purchased product will be added in the sales.json file.
 * ### record.json
   Record.json contains several attributes of the products that are-
